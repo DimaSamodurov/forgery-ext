@@ -1,0 +1,5 @@
+# Version 0.0.1
+
+Release date: 2012-05-20
+
+- Added Universities and Academic degrees.
